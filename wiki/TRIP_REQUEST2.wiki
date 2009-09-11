@@ -7,7 +7,7 @@ Routes a trip if sufficient information is provided.  Otherwise, returns a page 
 
 = Data =
 
-== Waypoints ==
+== [Waypoints] ==
 The waypoint ({odv}) parameters apply for each of the following waypoints:
  * `origin`
  * `destination`

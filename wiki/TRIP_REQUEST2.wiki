@@ -1,0 +1,66 @@
+#summary Trip router v2?
+
+= Introduction =
+
+Routes a trip if sufficient information is provided.  Otherwise, returns a page to gather more information.
+
+
+= Details =
+
+*Waypoints*
+The waypoint ({loc}) parameters apply for each of the following waypoints:
+ * origin
+ * destination
+ * via (multiple vias not tested)
+
+|| type_{loc} || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
+|| name_{loc} || Name/value of location ||
+|| place_{loc} || Area to search for location ||
+|| Date/time ||
+|| itdTripDateTimeDepArr || dep|arr ||
+|| itdDateDay ||
+|| itdDateMonth ||
+|| itdDateYear ||
+|| itdDateYearMonth ||
+|| itdTimeMinute ||
+|| itdTimeHour ||
+|| Route ||
+|| routeType || LEASTTIME|LEASTINTERCHANGE|LEASTWALKING ||
+|| inclMOT_{mot} ||
+|| cycleType ||
+|| Other ||
+|| nameDefaultText_{loc} || Probably only used for scripting ||
+|| placeDefaultText_{loc} || Probably only used for scripting ||
+|| nameState_{loc} || Probably only used for scripting ||
+|| ptOptionsActive || 1|0 ||
+|| itOptionsActive	 || 1|0 ||
+|| imparedOptionsActive || 1|0 (NB misspelling) ||
+|| ptAdvancedOptions || 1|0 ||
+|| advOptActive_2	 || 1|0 ||
+|| advOpt_2	 || 1|0 ||
+|| trITMOT	 || 100 ||
+|| trITMOTvalue	 || 20 ||
+|| trITMOTvalue101 || 60 ||
+|| execInst	 || normal ||
+|| command	 || |changeRequest|tripRetoure|tripGoOn|nop ||
+|| includedMeans	 || checkbox ||
+|| calculateDistance || 1|0 ||
+|| imageFormat	 || “png|pdf” ||
+|| imageOnly	 || 1|0 ||
+|| imageWidth	 || 705 ||
+|| imageHeight	 || 500 ||
+|| calculateCO2	 || 1|0 ||
+|| noSolidStairs ||
+|| noEscalators ||
+|| noElevators ||
+|| wheelchair ||
+|| useProxFootSearch || Prefer to walk ||
+|| changeSpeed	 || normal|fast|slow ||
+|| tripSelection || ||
+|| tripSelector1 || ||
+
+= Layout =
+
+|| itdLPxx_request ||
+|| itdLPxx_view	 || |detail|{others}? ||
+|| itdLPxx_tubeMap ||

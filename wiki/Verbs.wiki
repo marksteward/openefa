@@ -1,8 +1,8 @@
-#summary The currently-known verbs that can be requested of EFA
+#summary The currently-known verbs that can be requested.
 
 = Introduction =
 
-Add your content here.
+Click on each verb to see the parameters that are known to apply to it.
 
 
 = Details =

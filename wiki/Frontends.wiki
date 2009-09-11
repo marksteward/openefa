@@ -7,52 +7,52 @@ These are the currently known implementations of EFA.  Version information could
 = Details =
 
 http://journeyplanner.tfl.gov.uk/
-	imr/	Internal or mobile?
-	bcl/	Accessible (large text)
-	user/	TFL branded main site
-	lite/	JSON
-	lite2/	JSON with post-processing
+ * imr/  Internal or mobile?
+ * bcl/  Accessible (large text)
+ * user/  TFL branded main site
+ * lite/  JSON
+ * lite2/  JSON with post-processing
 http://www.efa.de/
-	gvh/
+ * gvh/
 http://wojhati.rta.ae/
-	dub/
+ * dub/
 http://www.travelinesoutheast.org.uk/
-	se/
+ * se/
 http://www.travelineeastmidlands.co.uk/
-	em/
+ * em/
 http://www.travelineeastanglia.org.uk/
-	ea/
+ * ea/
 http://efa.vvs.de/
-	bike/
+ * bike/
 http://efa.mvv-muenchen.de/
-	mvv/
+ * mvv/
 http://efa.vrr.de/
-	vrr/
-	nrw/
-	vgm-vrl/
-	standard/
+ * vrr/
+ * nrw/
+ * vgm-vrl/
+ * standard/
 http://efa.vor.at/
-	wvb/
+ * wvb/
 http://efa9.vrn.de/
-	vrn/
-	barrierefrei/
+ * vrn/
+ * barrierefrei/
 http://www2.vvs.de/
-	vvs/
+ * vvs/
 http://efa.vvt.at/
-	vvtadr/
+ * vvtadr/
 http://www.efa-bw.de/
-	nvbw/
+ * nvbw/
 http://mobil.gvh.de/
-	mobile2/
+ * mobile2/
 http://jp.metlinkmelbourne.com.au/
-	metlink/
+ * metlink/
 http://tripplanner.transit.511.org/
-	mtc/
+ * mtc/
 http://213.144.24.66/
-	kvv/
+ * kvv/
 http://efa.naldo.de/
-	naldo/
+ * naldo/
 http://www.efa-bvb.ch/
-	bvb/
+ * bvb/
 http://62.206.133.179/
-	nds/
+ * nds/

@@ -1,4 +1,4 @@
-#summary Top level XML object for most [Services].
+#summary Top level XML object for most Services.
 
 = Contains =
 

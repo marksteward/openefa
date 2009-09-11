@@ -26,5 +26,5 @@ Click on each service to see the parameters that are known to apply to it.
 || [XSLT_TTB_REQUEST]            || [XML_TTB_REQUEST]            || Timetable                      ||
 || [XSLT_ROP_REQUEST]            || [XML_ROP_REQUEST]            || Request Map Output             ||
 || [XSLT_SOI_REQUEST]            || [XML_SOI_REQUEST]            || Station Opening Information    ||
-|| [XSLT_STOP_INFO_REQUEST]      || [XML_STOP_INFO_REQUEST]      || Stop information               ||
+|| [XSLT_STOP_INFO_REQUEST]      || [XML_STOP_INFO_REQUEST]      || Stop/Station Information               ||
 || [XSLT_SCREEN_SAVER_REQUEST]   || [XML_SCREEN_SAVER_REQUEST]   || Screen saver download          ||

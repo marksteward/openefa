@@ -41,3 +41,7 @@
        * [itdItOptions]
      If identified:
      * [itdServingLines]
+
+= Example =
+
+[http://journeyplanner.tfl.gov.uk/user/XSLT_DM_REQUEST?itdDateDay=11&itdDateYearMonth=200909&itdTimeHour=21&itdTimeMinute=38&itdTripDateTimeDepArr=arr&language=en&type_dm=stop&name_dm=Euston Departures from Euston]

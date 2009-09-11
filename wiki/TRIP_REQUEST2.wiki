@@ -9,9 +9,9 @@ Routes a trip if sufficient information is provided.  Otherwise, returns a page 
 
 == Waypoints ==
 The waypoint ({odv}) parameters apply for each of the following waypoints:
- * origin
- * destination
- * via (only one allowed)
+ * `origin`
+ * `destination`
+ * `via` (only one allowed)
 
 || `type_{odv}` || Type of location: `stop|poi|poiID|coord|address|locator` ||
 || `name_{odv}` || Name/value of location ||

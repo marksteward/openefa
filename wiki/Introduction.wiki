@@ -4,7 +4,7 @@
 
 *[http://www.efa.de EFA]* is the _Elektronische Fahrplanauskunft_ (Electronic Timetable) system.  It appears to have been written by [http://www.projektionisten.de/ Projektionisten GmbH] for [http://www.hannit.de/ HannIT], who are the local government IT provider for district of [http://www.hannover.de/ Hanover].  It provides realtime and planned journey routing and timetabling.
 
-The system used in Germany and around the world, including by [TFL Transport for London], appears to be called *EFA9*.
+The system is used in Germany and around the world, including by [TFL Transport for London], and is currently called *EFA9*.
 
 
 = Details =

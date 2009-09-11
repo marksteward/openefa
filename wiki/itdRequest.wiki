@@ -1,0 +1,11 @@
+#summary Request
+
+= Introduction =
+
+Top level XML object for most [Services].
+
+= Details =
+
+From the TFL website: the clientIP is the load balancer, the serverID can be seen in the sessionID, and virtDir is the frontend requested.  Note that the default language is German.
+
+{{{<itdRequest version="9.15.16.32" language="de" lengthUnit="METER" sessionID="0" client="NC6" clientIP="192.168.11.19" serverID="JP20_" virtDir="user" now="2009-09-11T12:17:27" nowWD="6">}}}

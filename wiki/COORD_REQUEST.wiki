@@ -4,7 +4,7 @@
 
 List of points of interest for placing on a map.
 
-= Details =
+= Data =
 
 || coord                                 || coordinate in x:y:map format [Coordinates] are GB national grid easting, 1000000 - northing ||
 || coordListFormat                       || "STRING" ||
@@ -15,3 +15,7 @@ List of points of interest for placing on a map.
 || inclFilter                            || "1" ||
 || radius_1                              || "3080" ||
 || type_1                                || "STOP" ||
+
+= Layout =
+
+|| itdLPxx_mdvMapName                    || "mdvMap_mdvJpMap_large" ||

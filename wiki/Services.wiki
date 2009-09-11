@@ -16,7 +16,7 @@ Click on each service to see the parameters that are known to apply to it.
 || [CM_SHOWADDINFO_REQUEST]      || Incident Info                  ||
 || [COORD_REQUEST]               || Coordinate POI lookup          ||
 || [CONSTOPFINDER_REQUEST]       || Customer options finder        ||
-|| [DM_REQUEST]                  || Departure Board                ||
+|| [DM_REQUEST]                  || Departure Monitor              ||
 || [MAP_REQUEST]                 || Map                            ||
 || [PS_REQUEST2]                 || Personal Timetable v2?         ||
 || [A_PS_REQUEST2]               || Personal Timetable v2?         ||

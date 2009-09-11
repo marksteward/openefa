@@ -13,7 +13,7 @@ The waypoint ({odv}) parameters apply for each of the following waypoints:
  * destination
  * via (only one allowed)
 
-|| `type_{odv}` || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
+|| `type_{odv}` || Type of location: `stop|poi|poiID|coord|address|locator` ||
 || `name_{odv}` || Name/value of location ||
 || `place_{odv}` || Area to search for location ||
 

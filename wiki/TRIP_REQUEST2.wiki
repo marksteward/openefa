@@ -7,17 +7,17 @@ Routes a trip if sufficient information is provided.  Otherwise, returns a page 
 
 = Details =
 
-*Waypoints*
-The waypoint ({loc}) parameters apply for each of the following waypoints:
+== Waypoints ==
+The waypoint ({odv}) parameters apply for each of the following waypoints:
  * origin
  * destination
- * via (multiple vias not tested)
+ * via (only one allowed)
 
-|| type_{loc} || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
-|| name_{loc} || Name/value of location ||
-|| place_{loc} || Area to search for location ||
+|| type_{odv} || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
+|| name_{odv} || Name/value of location ||
+|| place_{odv} || Area to search for location ||
 
-Date/time
+== Date/time ==
 || itdTripDateTimeDepArr || dep|arr ||
 || itdDateDay ||
 || itdDateMonth ||
@@ -26,24 +26,38 @@ Date/time
 || itdTimeMinute ||
 || itdTimeHour ||
 
-Route
+== Route ==
 || routeType || LEASTTIME|LEASTINTERCHANGE|LEASTWALKING ||
-|| inclMOT_{mot} ||
-|| cycleType ||
+|| inclMOT_{mot} || ||
+|| cycleType || ||
+|| calcNumberOfTrips || Number of itineraries to include
 
-Other
-|| nameDefaultText_{loc} || Probably only used for scripting ||
-|| placeDefaultText_{loc} || Probably only used for scripting ||
-|| nameState_{loc} || Probably only used for scripting ||
-|| ptOptionsActive || 1|0 ||
-|| itOptionsActive	 || 1|0 ||
-|| imparedOptionsActive || 1|0 (NB misspelling) ||
-|| ptAdvancedOptions || 1|0 ||
-|| advOptActive_2	 || 1|0 ||
-|| advOpt_2	 || 1|0 ||
+== Public transport options ==
+|| ptOptionsActive || 1|0 (enable public transport routing) ||
+
+
+== Independent transport options ==
+|| itOptionsActive	 || 1|0 (enable independent transport routing) ||
 || trITMOT	 || 100 ||
 || trITMOTvalue	 || 20 ||
 || trITMOTvalue101 || 60 ||
+
+== Accessibility transport options ==
+|| imparedOptionsActive || 1|0 (enable accessibility requirements) - NB misspelling) ||
+|| noSolidStairs || ||
+|| noEscalators || ||
+|| noElevators || ||
+|| wheelchair || ||
+
+== Advanced options ==
+|| ptAdvancedOptions || 1|0 ||
+|| advOptActive_2	 || 1|0 ||
+|| advOpt_2	 || 1|0 ||
+
+== Other ==
+|| nameDefaultText_{loc} || Probably only used for scripting ||
+|| placeDefaultText_{loc} || Probably only used for scripting ||
+|| nameState_{loc} || Probably only used for scripting ||
 || execInst	 || normal ||
 || command	 || |changeRequest|tripRetoure|tripGoOn|nop ||
 || includedMeans	 || checkbox ||
@@ -53,10 +67,6 @@ Other
 || imageWidth	 || 705 ||
 || imageHeight	 || 500 ||
 || calculateCO2	 || 1|0 ||
-|| noSolidStairs ||
-|| noEscalators ||
-|| noElevators ||
-|| wheelchair ||
 || useProxFootSearch || Prefer to walk ||
 || changeSpeed	 || normal|fast|slow ||
 || tripSelection || ||
@@ -92,3 +102,6 @@ Other
        * [arrivalTransport]
      * [itdUsedOptions]
    * [itdItinerary]
+ (only if route is identified):
+     * [itdRouteList]
+       * [itdRoute]

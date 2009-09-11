@@ -23,8 +23,8 @@
 || `screenHeight`                         || `410` ||
 || `screenWidth`                          || `520` ||
 
-|| `itdLPxx_request`                      || `name of previous verb` ||
+|| `itdLPxx_request`                      || name of previous verb ||
 || `itdLPxx_requestID`                    || `1` ||
-|| `itdLPxx_sessionID`                    || `sessionID from previous verb` ||
+|| `itdLPxx_sessionID`                    || sessionID from previous verb ||
 || `itdLPxx_usage`                        || `destination` ||
 || `itdLPxx_view`                         || `staticMap` ||

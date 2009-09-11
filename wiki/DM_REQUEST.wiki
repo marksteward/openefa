@@ -39,8 +39,7 @@
      * [itdTripOptions]
        * [itdPtOptions]
        * [itdItOptions]
-     If identified:
-     * [itdServingLines]
+     * [itdServingLines] (if station/stop is identified)
 
 = Example =
 

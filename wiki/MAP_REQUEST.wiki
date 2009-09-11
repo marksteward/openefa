@@ -1,0 +1,30 @@
+#summary Map request
+
+= Introduction =
+
+
+
+= Data =
+
+|| `createImage`                          || `0|1` ||
+|| `command`                              || `mapCenter` ||
+|| `execInst`                             || `verifyOnly` ||
+|| `mapName`                              || `TFLV` ||
+|| `pinTypePOI`                           || `1` ||
+|| `pinTypeStop`                          || `1` ||
+|| `moveDirection`                        || `` ||
+|| `xCenterReal`                          || `0` ||
+|| `xScreen`                              || `0` ||
+|| `xScreen2`                             || `0` ||
+|| `yCenterReal`                          || `0` ||
+|| `yScreen`                              || `0` ||
+|| `yScreen2`                             || `0` ||
+|| `zoomLevel`                            || `0-9?` ||
+|| `screenHeight`                         || `410` ||
+|| `screenWidth`                          || `520` ||
+
+|| `itdLPxx_request`                      || name of previous service ||
+|| `itdLPxx_requestID`                    || `1` ||
+|| `itdLPxx_sessionID`                    || sessionID from previous service ||
+|| `itdLPxx_usage`                        || `destination` ||
+|| `itdLPxx_view`                         || `staticMap` ||

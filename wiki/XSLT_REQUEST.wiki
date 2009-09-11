@@ -1,16 +1,18 @@
-#summary XSLT_REQUEST
+#summary Trip router v1
 
 = Introduction =
 
-Trip router v1
-
 
 = Parameters =
-
-|| Name                                  || Usage ||
 || [itdLPxx_lineMain]                    || Line number ||
 || [itdLPxx]                             || Date in yyyy-mm-dd ||
 
+|| [itdLPxx_link]                        || Include a specific CMS page ||
+
+|| [itdLPxx_command]                     || showOperatorInfo ||
+|| [itdLPxx_opCode]                      || operator code ||
+|| [itdLPxx_opName]                      || operator name (not required) ||
+|| [itdLPxx_close]                       || 1
+
 = Defaults =
-|| Name                                  || Usage ||
 || [itdLPxx_output]                      || Ignored? ||

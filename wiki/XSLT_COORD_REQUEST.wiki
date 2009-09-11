@@ -7,12 +7,12 @@ Lists points of interest for placing on a map.
 = Details =
 
 || coord                                 || coordinate in x:y:map format [Coordinates] are GB national grid easting, 1000000 - northing ||
-|| coordListFormat                       || STRING ||
-|| coordListOutputFormat                 || STRING ||
-|| inclDrawClasses_1                     || 1:2:6 ||
-|| itdLPxx_mdvMapName                    || mdvMap_mdvJpMap_large ||
-|| max                                   || -1 ||
-|| purpose                               || ||
-|| inclFilter                            || 1 ||
-|| radius_1                              || 3080 ||
-|| type_1                                || STOP ||
+|| coordListFormat                       || "STRING" ||
+|| coordListOutputFormat                 || "STRING" ||
+|| inclDrawClasses_1                     || "1:2:6" ||
+|| itdLPxx_mdvMapName                    || "mdvMap_mdvJpMap_large" ||
+|| max                                   || "-1" ||
+|| purpose                               || "" ||
+|| inclFilter                            || "1" ||
+|| radius_1                              || "3080" ||
+|| type_1                                || "STOP" ||

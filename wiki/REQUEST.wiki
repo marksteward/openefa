@@ -1,4 +1,4 @@
-#summary CMS page request
+#summary General page request
 
 = Introduction =
 

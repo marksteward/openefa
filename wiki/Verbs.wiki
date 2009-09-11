@@ -1,8 +1,8 @@
-#summary Currently-known verbs that can be requested.
+#summary Currently-known services that can be requested.
 
 = Introduction =
 
-Click on each verb to see the parameters that are known to apply to it.
+Click on each service to see the parameters that are known to apply to it.
 
 
 = Details =

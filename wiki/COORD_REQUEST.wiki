@@ -19,3 +19,11 @@ List of points of interest for placing on a map.
 = Layout =
 
 || itdLPxx_mdvMapName                    || "mdvMap_mdvJpMap_large" ||
+
+= XML output =
+
+[itdRequest]
+ * 
+
+= Example =
+http://journeyplanner.tfl.gov.uk/lite/XSLT_COORD_REQUEST?coord=529067%3A820212%3ATFLV&coordListFormat=STRING&coordListOutputFormat=STRING&inclDrawClasses_1=&inclDrawClasses_2=&inclFilter=1&itdLPxx_mdvMapName=mdvMap_mdvJpMap_large&language=en&max=-1&purpose=&radius_1=696&radius_2=696&type_1=STOP&type_2=BUS_POINT

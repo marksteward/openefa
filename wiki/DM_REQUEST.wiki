@@ -1,7 +1,6 @@
-#summary Departure Board
+#summary Departure Monitor
 
 = Introduction =
-
 
 = Data =
 
@@ -16,3 +15,15 @@
 || `inclMOT_1`                            || `1` ||
 || `useRealtime`                          || `1` ||
 || `itdLPxx_transpCompany`                || `Refresh` ||
+
+= XML output =
+
+ * [itdRequest]
+   * [itdVersionInfo]
+   * [itdDepartureMonitorRequest]
+     * [itdOdv]
+     * [itdDateTime]
+     * [itdDateRange]
+     * [itdTripOptions]
+       * [itdPtOptions]
+       * [itdItOptions]

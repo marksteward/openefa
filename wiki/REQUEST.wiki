@@ -21,10 +21,10 @@
 
 = XML output =
 
-[itdRequest]
- * [itdVersionInfo]
- * [itdLayoutParams]
- * [itdGeneralRequest]
+ * [itdRequest]
+   * [itdVersionInfo]
+   * [itdLayoutParams]
+   * [itdGeneralRequest]
 
 = Example =
 

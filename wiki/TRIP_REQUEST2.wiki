@@ -74,9 +74,9 @@ The waypoint ({odv}) parameters apply for each of the following waypoints:
 
 = Layout =
 
-|| itdLPxx_request ||
-|| itdLPxx_view	 || |detail|{others}? ||
-|| itdLPxx_tubeMap ||
+|| `itdLPxx_view`    || `|*detail*` ||
+|| `itdLPxx_request` ||
+|| `itdLPxx_tubeMap` ||
 
 = XML output =
 
@@ -105,3 +105,7 @@ The waypoint ({odv}) parameters apply for each of the following waypoints:
  (only if route is identified):
      * [itdRouteList]
        * [itdRoute]
+
+= Example =
+
+[http://journeyplanner.tfl.gov.uk/user/XML_TRIP_REQUEST2?type_origin=locator&name_origin=SW1A1AA&type_destination=locator&name_destination=SW1A2AA&type_via=locator&name_via=NW11AA&calcNumberOfTrips=1&language=en from Buckingham Palace to 10 Downing St via Barnby St delivery office.

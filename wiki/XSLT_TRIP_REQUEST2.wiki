@@ -9,8 +9,7 @@ Routes a trip if sufficient information is provided.  Otherwise, returns a page 
 
 || Waypoints ||
 || Waypoints ({loc}) are: origin|destination|via ||
-|| type_{loc} || Type of location.
-	 Valid: stop|poi|poiID|coord|address|locator ||
+|| type_{loc} || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
 || name_{loc} || Name/value of location ||
 || place_{loc} || Area to search for location ||
 || Date/time ||

@@ -3,9 +3,12 @@
 = Contains =
 
  * [itdVersionInfo]
- * [itdTripRequest] for [TRIP_REQUEST]
+ * [itdTripRequest] for [TRIP_REQUEST], [TRIP_REQUEST2]
  * [itdLayoutParams] if any specified
  * [itdGeneralRequest] for [REQUEST]
+ * [itdCoordInfoRequest] for [COORD_REQUEST]
+ * [itdDepartureMonitorRequest] for [DM_REQUEST]
+
 
 
 = Example =

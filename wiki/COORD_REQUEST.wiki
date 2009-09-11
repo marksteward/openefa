@@ -1,0 +1,17 @@
+#summary Coordinate POI lookup
+
+= Introduction =
+
+List of points of interest for placing on a map.
+
+= Details =
+
+|| coord                                 || coordinate in x:y:map format [Coordinates] are GB national grid easting, 1000000 - northing ||
+|| coordListFormat                       || "STRING" ||
+|| coordListOutputFormat                 || "STRING" ||
+|| inclDrawClasses_1                     || "1:2:6" ||
+|| max                                   || "-1" ||
+|| purpose                               || "" ||
+|| inclFilter                            || "1" ||
+|| radius_1                              || "3080" ||
+|| type_1                                || "STOP" ||

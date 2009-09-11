@@ -108,4 +108,4 @@ The waypoint ({odv}) parameters apply for each of the following waypoints:
 
 = Example =
 
-[http://journeyplanner.tfl.gov.uk/user/XML_TRIP_REQUEST2?type_origin=locator&name_origin=SW1A1AA&type_destination=locator&name_destination=SW1A2AA&type_via=locator&name_via=NW11AA&calcNumberOfTrips=1&language=en from Buckingham Palace to 10 Downing St via Barnby St delivery office]
+[http://journeyplanner.tfl.gov.uk/user/XML_TRIP_REQUEST2?type_origin=locator&name_origin=SW1A1AA&type_destination=locator&name_destination=NW11AA&type_via=locator&name_via=SW1A2AA&calcNumberOfTrips=1&language=en From Buckingham Palace to 10 Downing St via Barnby St delivery office] (strangely, there are issues with NW11AA as a via point)

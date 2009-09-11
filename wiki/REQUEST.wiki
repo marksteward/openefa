@@ -1,8 +1,6 @@
 #summary General page request
 
-= Introduction =
-
-= Details =
+= Data =
 
 = Layout =
 
@@ -21,9 +19,17 @@
 = Defaults =
 || [itdLPxx_output]                      || Ignored? ||
 
-= XML Returns =
+= XML output =
 
 [itdRequest]
  * [itdVersionInfo]
  * [itdLayoutParams]
  * [itdGeneralRequest]
+
+= Example =
+
+[http://journeyplanner.tfl.gov.uk/user/XML_REQUEST?language=en&itdLPxx_view=AddToWebsite1 TFL "Add to Website" without XSLT]
+
+[http://journeyplanner.tfl.gov.uk/user/XSLT_REQUEST?language=en&itdLPxx_view=AddToWebsite1 "Add to Website" with wrong frontend]
+
+[http://journeyplanner.tfl.gov.uk/imr/XSLT_REQUEST?language=en&itdLPxx_view=AddToWebsite1 "Add to Website" with correct frontend]

@@ -7,24 +7,24 @@ Click on each verb to see the parameters that are known to apply to it.
 
 = Details =
 
-|| [EFA_INIT]                   ||                             || Start a new verb?                ||
-|| [FILELOAD]                   ||                             || Download local file              ||
-|| [XSLT_REQUEST]               || [XML_REQUEST]               || CMS page request                 ||
-|| [XSLT_TRIP_REQUEST]          || [XML_TRIP_REQUEST]          || Trip router v1                   ||
-|| [XSLT_TRIP_REQUEST2]         || [XML_TRIP_REQUEST2]         || Trip router v2                   ||
-|| [XSLT_ADDINFO_REQUEST]       || [XML_ADDINFO_REQUEST]       || Address Info                     ||
-|| [XSLT_CM_SHOWADDINFO_REQUEST || [XML_CM_SHOWADDINFO_REQUEST || Incident Info                    ||
-|| [XSLT_COORD_REQUEST]         || [XML_COORD_REQUEST]         || Coordinate POI lookup            ||
-|| [XSLT_CONSTOPFINDER_REQUEST] || [XML_CONSTOPFINDER_REQUEST] || Customer options finder          ||
-|| [XSLT_DM_REQUEST]            || [XML_DM_REQUEST]            || Departure Board                  ||
-|| [XSLT_MAP_REQUEST]           || [XML_MAP_REQUEST]           || Map                              ||
-|| [XSLT_PS_REQUEST2]           || [XML_PS_REQUEST2]           || Personal Timetable v2            ||
-|| [XSLT_A_PS_REQUEST2]         || [XML_A_PS_REQUEST2]         || Personal Timetable v2            ||
-|| [XSLT_SEL_STT_REQUEST]       || [XML_SEL_STT_REQUEST]       || Select Station/Stop Timetable?   ||
-|| [XSLT_SELTT_REQUEST]         || [XML_SELTT_REQUEST]         || Select Timetable?                ||
-|| [XSLT_STT_REQUEST]           || [XML_STT_REQUEST]           || Stop-specific Timetables?        ||
-|| [XSLT_TTB_REQUEST]           || [XML_TTB_REQUEST]           || Timetable                        ||
-|| [XSLT_ROP_REQUEST]           || [XML_ROP_REQUEST]           || Request Map Output               ||
-|| [XSLT_SOI_REQUEST]           || [XML_SOI_REQUEST]           || Station Opening Information      ||
-|| [XSLT_STOP_INFO_REQUEST]     || [XML_STOP_INFO_REQUEST]     || Stop information                 ||
-|| [XSLT_SCREEN_SAVER_REQUEST]  || [XML_SCREEN_SAVER_REQUEST]  || Screen saver download            ||
+|| [EFA_INIT]                    ||                              || Start a new verb?              ||
+|| [FILELOAD]                    ||                              || Download local file            ||
+|| [XSLT_REQUEST]                || [XML_REQUEST]                || CMS page request               ||
+|| [XSLT_TRIP_REQUEST]           || [XML_TRIP_REQUEST]           || Trip router v1                 ||
+|| [XSLT_TRIP_REQUEST2]          || [XML_TRIP_REQUEST2]          || Trip router v2                 ||
+|| [XSLT_ADDINFO_REQUEST]        || [XML_ADDINFO_REQUEST]        || Address Info                   ||
+|| [XSLT_CM_SHOWADDINFO_REQUEST] || [XML_CM_SHOWADDINFO_REQUEST] || Incident Info                  ||
+|| [XSLT_COORD_REQUEST]          || [XML_COORD_REQUEST]          || Coordinate POI lookup          ||
+|| [XSLT_CONSTOPFINDER_REQUEST]  || [XML_CONSTOPFINDER_REQUEST]  || Customer options finder        ||
+|| [XSLT_DM_REQUEST]             || [XML_DM_REQUEST]             || Departure Board                ||
+|| [XSLT_MAP_REQUEST]            || [XML_MAP_REQUEST]            || Map                            ||
+|| [XSLT_PS_REQUEST2]            || [XML_PS_REQUEST2]            || Personal Timetable v2          ||
+|| [XSLT_A_PS_REQUEST2]          || [XML_A_PS_REQUEST2]          || Personal Timetable v2          ||
+|| [XSLT_SEL_STT_REQUEST]        || [XML_SEL_STT_REQUEST]        || Select Station/Stop Timetable? ||
+|| [XSLT_SELTT_REQUEST]          || [XML_SELTT_REQUEST]          || Select Timetable?              ||
+|| [XSLT_STT_REQUEST]            || [XML_STT_REQUEST]            || Stop-specific Timetables?      ||
+|| [XSLT_TTB_REQUEST]            || [XML_TTB_REQUEST]            || Timetable                      ||
+|| [XSLT_ROP_REQUEST]            || [XML_ROP_REQUEST]            || Request Map Output             ||
+|| [XSLT_SOI_REQUEST]            || [XML_SOI_REQUEST]            || Station Opening Information    ||
+|| [XSLT_STOP_INFO_REQUEST]      || [XML_STOP_INFO_REQUEST]      || Stop information               ||
+|| [XSLT_SCREEN_SAVER_REQUEST]   || [XML_SCREEN_SAVER_REQUEST]   || Screen saver download          ||

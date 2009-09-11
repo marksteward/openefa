@@ -16,7 +16,8 @@ The waypoint ({loc}) parameters apply for each of the following waypoints:
 || type_{loc} || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
 || name_{loc} || Name/value of location ||
 || place_{loc} || Area to search for location ||
-|| Date/time ||
+
+Date/time
 || itdTripDateTimeDepArr || dep|arr ||
 || itdDateDay ||
 || itdDateMonth ||
@@ -24,11 +25,13 @@ The waypoint ({loc}) parameters apply for each of the following waypoints:
 || itdDateYearMonth ||
 || itdTimeMinute ||
 || itdTimeHour ||
-|| Route ||
+
+Route
 || routeType || LEASTTIME|LEASTINTERCHANGE|LEASTWALKING ||
 || inclMOT_{mot} ||
 || cycleType ||
-|| Other ||
+
+Other
 || nameDefaultText_{loc} || Probably only used for scripting ||
 || placeDefaultText_{loc} || Probably only used for scripting ||
 || nameState_{loc} || Probably only used for scripting ||

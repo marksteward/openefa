@@ -21,4 +21,4 @@ Frontends are probably just a different set of XSLTs.  For example, TFL has `/bc
 
 == XML ==
 
-As the XML is probably the basic interface, the hierarchy of XML responses is documented.  Start at [itdRequest].
+As XML is probably the most basic interface, the hierarchy of XML output is documented.  Start at [itdRequest].

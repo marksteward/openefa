@@ -5,7 +5,7 @@
 EFA consists of a number of XML generators and XSLT transforms.
 
 The URLs are of the form:
-http://site.tld/frontend/SERVICE?param=value&param=value
+[`http://site.tld/frontend/SERVICE?param=value&param=value`]
 
 == Support ==
 
@@ -13,7 +13,7 @@ Please note that this documentation is a collation of what can be found in the p
 
 == [Services] ==
 
-For every REQUEST service, there are two basic forms: XML_SERVICE_REQUEST and XSLT_SERVICE_REQUEST.  Each service is probably a Java servlet, which uses passed back parameters to change session state.  There is also XSDM_SERVICE_REQUEST, but this doesn't appear to be used properly yet.
+For every `REQUEST` service, there are two basic forms: `XML_SERVICE_REQUEST` and `XSLT_SERVICE_REQUEST`.  Each service is probably a Java servlet, which uses passed back parameters to change session state.  There is also `XSDM_SERVICE_REQUEST`, but this doesn't appear to be used properly yet.
 
 == [Frontends] ==
 

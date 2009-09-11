@@ -1,4 +1,4 @@
-#summary EFA is an Electronic Timetable system
+#summary What we know about EFA
 
 = Introduction =
 

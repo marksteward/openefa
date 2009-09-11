@@ -6,9 +6,9 @@
 = Parameters =
 || [itdLPxx_lineMain]                    || Line number ||
 || [itdLPxx]                             || Date in yyyy-mm-dd ||
-
+||                                       || ||
 || [itdLPxx_link]                        || Include a specific CMS page ||
-
+||                                       || ||
 || [itdLPxx_command]                     || showOperatorInfo ||
 || [itdLPxx_opCode]                      || operator code ||
 || [itdLPxx_opName]                      || operator name (not required) ||

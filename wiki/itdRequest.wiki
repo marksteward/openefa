@@ -1,10 +1,14 @@
-#summary Request
+#summary Top level XML object for most [Services].
 
-= Introduction =
+= Contains =
 
-Top level XML object for most [Services].
+ * [itdVersionInfo]
+ * [itdTripRequest] for [TRIP_REQUEST]
+ * [itdLayoutParams] if any specified
+ * [itdGeneralRequest] for [REQUEST]
 
-= Details =
+
+= Example =
 
 From the TFL website: `clientIP` is the load balancer, `serverID` can be seen in the `sessionID`, and `virtDir` is the frontend requested.  Note that the default language is German.
 

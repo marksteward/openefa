@@ -7,7 +7,7 @@ EFA consists of a number of XML generators and XSLT transforms.
 The URLs are of the form:
 http://site.tld/frontend/SERVICE?param=value&param=value
 
-= [Support] =
+= Support =
 
 Please note that this documentation is a collation of what can be found in the public domain.  Nobody involved in EFA has provided any information here, and they have no obligation to make the system behave as described here.  They also do not provide support for this documentation: if something doesn't work, please [http://code.google.com/p/openefa/issues/list raise an issue] on OpenEFA.
 

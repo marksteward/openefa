@@ -1,4 +1,4 @@
-#summary Trip router v2?
+#summary Trip Router
 
 = Introduction =
 

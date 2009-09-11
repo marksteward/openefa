@@ -13,9 +13,9 @@ The waypoint ({odv}) parameters apply for each of the following waypoints:
  * destination
  * via (only one allowed)
 
-|| type*_{odv} || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
-|| name*_{odv} || Name/value of location ||
-|| place*_{odv} || Area to search for location ||
+|| `type_{odv}` || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
+|| `name_{odv}` || Name/value of location ||
+|| `place_{odv}` || Area to search for location ||
 
 == Date/time ==
 || itdTripDateTimeDepArr || dep|arr ||

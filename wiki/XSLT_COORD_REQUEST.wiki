@@ -6,7 +6,7 @@ Lists points of interest for placing on a map.
 
 = Details =
 
-|| coord                                 || coordinate in x:y:map format [Coordinates] are GB national grid easting, 1000000 - northing
+|| coord                                 || coordinate in x:y:map format [Coordinates] are GB national grid easting, 1000000 - northing ||
 || coordListFormat                       || STRING ||
 || coordListOutputFormat                 || STRING ||
 || inclDrawClasses_1                     || 1:2:6 ||

@@ -20,3 +20,7 @@ For every REQUEST service, there are two basic forms: XML_SERVICE_REQUEST and XS
 Frontends are probably just a different set of XSLTs.  For example, TFL has `/bcl/` to generate high-visibility pages.
 
 However, XML in `/lite/` is in the http://www.w3.org/2001/XMLSchema-instance namespace, so the XSLT can provide JSON output.
+
+== [XML] ==
+
+As the XML is probably the basic interface, the hierarchy of XML responses is documented.

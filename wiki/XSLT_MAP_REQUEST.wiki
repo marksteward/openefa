@@ -25,6 +25,6 @@
 
 || `itdLPxx_request`                      || name of previous service ||
 || `itdLPxx_requestID`                    || `1` ||
-|| `itdLPxx_sessionID`                    || sessionID from previous verb ||
+|| `itdLPxx_sessionID`                    || sessionID from previous service ||
 || `itdLPxx_usage`                        || `destination` ||
 || `itdLPxx_view`                         || `staticMap` ||

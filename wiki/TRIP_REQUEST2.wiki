@@ -80,7 +80,7 @@ The waypoint ({odv}) parameters apply for each of the following waypoints:
 
 = XML output =
 
-* [itdRequest]
+ * [itdRequest]
    * [itdVersionInfo]
    * [itdTripRequest]
      * [itdOdv]

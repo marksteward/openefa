@@ -1,9 +1,0 @@
-#summary Coordinate POI lookup
-
-= Introduction =
-
-Lists points of interest for placing on a map.
-
-= Details =
-
-|| itdLPxx_mdvMapName                    || "mdvMap_mdvJpMap_large" ||

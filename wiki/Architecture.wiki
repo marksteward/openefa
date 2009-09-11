@@ -15,7 +15,7 @@ For every `REQUEST` service, there are two basic forms: `XML_SERVICE_REQUEST` an
 
 == [Frontends] ==
 
-Frontends are probably just a different set of XSLTs.  For example, TFL has `/bcl/` to generate high-visibility pages.  However, XML in `/lite/`, which provides JSON output, is in the http://www.w3.org/2001/XMLSchema-instance namespace.
+Frontends are probably just a different set of XSLTs.  For example, TFL has `/bcl/` to generate high-visibility pages.  The only known exception to this is `/lite/`, which provides JSON output, and is in the http://www.w3.org/2001/XMLSchema-instance namespace.
 
 == XML ==
 

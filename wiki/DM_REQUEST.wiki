@@ -4,7 +4,7 @@
 
 = Data =
 
-|| `name_dm`                              || `24203000` ||
+|| `name_dm`                              || ||
 || `type_dm`                              || `stop` ||
 || `mode`                                 || `direct` ||
 || `dmLineSelectionAll`                   || `1` ||
@@ -15,6 +15,18 @@
 || `inclMOT_1`                            || `1` ||
 || `useRealtime`                          || `1` ||
 || `itdLPxx_transpCompany`                || `Refresh` ||
+
+|| `lsShowTrainsExplicit`                 || ||
+|| `nameDefaultText_dm`                   || optional ||
+|| `nameState_dm`                         || optional ||
+|| `ptOptionsActive`                      || ||
+|| `requestID`                            || ||
+
+|| `itdDateDay`                           || ||
+|| `itdDateYearMonth`                     || ||
+|| `itdTimeHour`                          || ||
+|| `itdTimeMinute`                        || ||
+|| `itdTripDateTimeDepArr`                || ||
 
 = XML output =
 
@@ -27,3 +39,5 @@
      * [itdTripOptions]
        * [itdPtOptions]
        * [itdItOptions]
+     If identified:
+     * [itdServingLines]

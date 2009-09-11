@@ -7,7 +7,7 @@ Click on each verb to see the parameters that are known to apply to it.
 
 = Details =
 
-|| [EFA_INIT]                    ||                              || Start a new verb?              ||
+|| [EFA_INIT]                    ||                              || Start a new session?              ||
 || [FILELOAD]                    ||                              || Download local file            ||
 || [XSLT_REQUEST]                || [XML_REQUEST]                || CMS page request               ||
 || [XSLT_TRIP_REQUEST]           || [XML_TRIP_REQUEST]           || Trip router v1                 ||

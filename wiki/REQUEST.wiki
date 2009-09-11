@@ -20,3 +20,10 @@
 
 = Defaults =
 || [itdLPxx_output]                      || Ignored? ||
+
+= XML Returns =
+
+[itdRequest]
+ * [itdVersionInfo]
+ * [itdLayoutParams]
+ * [itdGeneralRequest]

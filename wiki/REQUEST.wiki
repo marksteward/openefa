@@ -28,8 +28,8 @@
 
 = Example =
 
-[http://journeyplanner.tfl.gov.uk/user/XML_REQUEST?language=en&itdLPxx_view=AddToWebsite1 TFL "Add to Website" without XSLT]
+[http://journeyplanner.tfl.gov.uk/user/XML_REQUEST?language=en&itdLPxx_view=AddToWebsite1 "Add To Website" without XSLT]
 
-[http://journeyplanner.tfl.gov.uk/user/XSLT_REQUEST?language=en&itdLPxx_view=AddToWebsite1 "Add to Website" with wrong frontend]
+[http://journeyplanner.tfl.gov.uk/user/XSLT_REQUEST?language=en&itdLPxx_view=AddToWebsite1 "Add To Website" with wrong frontend]
 
-[http://journeyplanner.tfl.gov.uk/imr/XSLT_REQUEST?language=en&itdLPxx_view=AddToWebsite1 "Add to Website" with correct frontend]
+[http://journeyplanner.tfl.gov.uk/imr/XSLT_REQUEST?language=en&itdLPxx_view=AddToWebsite1 "Add To Website" with correct frontend]

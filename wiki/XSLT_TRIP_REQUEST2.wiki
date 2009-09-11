@@ -9,9 +9,9 @@ Routes a trip if sufficient information is provided.  Otherwise, returns a page 
 
 *Waypoints*
 The waypoint ({loc}) parameters apply for each of the following waypoints:
- *origin
- *destination
- *via (multiple vias not tested)
+ * origin
+ * destination
+ * via (multiple vias not tested)
 
 || type_{loc} || Type of location.	 Valid: stop|poi|poiID|coord|address|locator ||
 || name_{loc} || Name/value of location ||

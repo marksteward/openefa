@@ -9,6 +9,6 @@ The system used in Germany and around the world, including by [TFL|Transport for
 
 = Details =
 
-*For frequently-used functionality, see the [[Cheat Sheet]].
+*For frequently-used functionality, see the [Cheat Sheet].
 
-*For full documentation, start at [[Architecture]].
+*For full documentation, start at [Architecture].

@@ -64,3 +64,28 @@ The waypoint ({loc}) parameters apply for each of the following waypoints:
 || itdLPxx_request ||
 || itdLPxx_view	 || |detail|{others}? ||
 || itdLPxx_tubeMap ||
+
+= XML output =
+
+[itdRequest]
+* [itdVersionInfo]
+* [itdTripRequest]
+* * [itdOdv]
+* * [itdOdv]
+* * [itdOdv]
+* * [itdTripDateTime]
+* * * [itdDateTime]
+* * * [itdDateRange]
+* * [itdTripOptions]
+* * * [itdPtOptions]
+* * * * [excludedMeans]
+* * * * [specialTickets]
+* * * [itdItOptions]
+* * * * [itRouter]
+* * * * [itPedestrian]
+* * * * [itBicycle]
+* * * * [mitCar]
+* * * * [departureTransport]
+* * * * [arrivalTransport]
+* * * [itdUsedOptions]
+* * [itdItinerary]

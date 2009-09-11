@@ -21,6 +21,6 @@ Frontends are probably just a different set of XSLTs.  For example, TFL has `/bc
 
 However, XML in `/lite/` is in the http://www.w3.org/2001/XMLSchema-instance namespace, so the XSLT can provide JSON output.
 
-== [XML] ==
+== XML ==
 
-As the XML is probably the basic interface, the hierarchy of XML responses is documented.
+As the XML is probably the basic interface, the hierarchy of XML responses is documented.  Start at [itdRequest].

@@ -14,6 +14,8 @@
 || [itdLPxx_opCode]                      || operator code ||
 || [itdLPxx_opName]                      || operator name (not required) ||
 || [itdLPxx_close]                       || 1 ||
+||                                       || ||
+|| [itdLPxx_view]                        || Include a specific CMS view (page?)  Valid pages for TFL: AddToWebsite1|Realtime|bcl ||
 
 = Defaults =
 || [itdLPxx_output]                      || Ignored? ||

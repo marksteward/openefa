@@ -7,15 +7,15 @@
 = Details =
 
 Methods of transport {mot} for TFL are:
-|| 0 || Rail (national, Overground) ||
-|| 1 || DLR ||
-|| 2 || Tube (Underground) ||
-|| 3 || ||
+|| 0 || Train (national, overground) ||
+|| 1 || DLR (elevated railway) ||
+|| 2 || Tube (underground railway) ||
+|| 3 || Light railway ||
 || 4 || Tram ||
-|| 5 || Bus ||
-|| 6 || ||
-|| 7 || Coach ||
-|| 8 || ||
-|| 9 || Boat (river) ||
-|| 10 || ||
-|| 11 || ||
+|| 5 || City Bus ||
+|| 6 || Regional Bus ||
+|| 7 || Express Coach ||
+|| 8 || Cable car ||
+|| 9 || Boat/ship ||
+|| 10 || Mini/shuttle bus ||
+|| 11 || Other ||

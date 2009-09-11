@@ -1,4 +1,4 @@
-#summary The currently-known verbs that can be requested.
+#summary Currently-known verbs that can be requested.
 
 = Introduction =
 

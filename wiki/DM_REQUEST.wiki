@@ -1,0 +1,18 @@
+#summary Departure Board
+
+= Introduction =
+
+
+= Data =
+
+|| `name_dm`                              || `24203000` ||
+|| `type_dm`                              || `stop` ||
+|| `mode`                                 || `direct` ||
+|| `dmLineSelectionAll`                   || `1` ||
+|| `depType`                              || `STOPEVENTS` ||
+|| `includeCompleteStopSeq`               || `1` ||
+|| `includedMeans`                        || `1` ||
+|| `inclMOT_0`                            || `1` ||
+|| `inclMOT_1`                            || `1` ||
+|| `useRealtime`                          || `1` ||
+|| `itdLPxx_transpCompany`                || `Refresh` ||

@@ -6,7 +6,7 @@
 
 = Details =
 
-Methods of transport {mot} for TFL are:
+Methods of transport {mot} are:
 || 0 || Train (national, overground) ||
 || 1 || DLR (elevated railway) ||
 || 2 || Tube (underground railway) ||

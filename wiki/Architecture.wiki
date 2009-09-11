@@ -9,7 +9,7 @@ http://site.tld/frontend/VERB?param=value&param=value
 
 == Verbs ==
 
-For every REQUEST verb, there are two basic forms: XML_VERB and XSLT_VERB.  The verb is probably a Java servlet, which uses passed back parameters to change session state.
+For every REQUEST verb, there are two basic forms: XML_VERB and XSLT_VERB.  The verb is probably a Java servlet, which uses passed back parameters to change session state.  There is also XSDM_VERB, but this doesn't appear to be used properly yet.
 
 = Frontends =
 

@@ -1,0 +1,16 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+EFA consists of a number of XML generators and XSLT transforms.
+
+The URLs are of the form:
+http://site.tld/frontend/VERB?param=value&param=value
+
+== Verbs ==
+
+For every REQUEST verb, there are two basic forms: XML_VERB and XSLT_VERB.  The verb is probably a Java servlet, which uses passed back parameters to change session state.
+
+= Frontends =
+
+Frontends are probably just a different set of XSLTs.  For example, the TFL has /bcl/ to generate high-visibility pages and /lite/ to provide JSON output.

@@ -2,9 +2,7 @@
 
 = Introduction =
 
-EFA consists of a number of XML generators and XSLT transforms.
-
-The URLs are of the form:
+The EFA interface consists of a number of XML generators and XSLT transforms.  URLs are of the form:
 `http://site.tld/frontend/SERVICE?param=value&param=value`
 
 == Support ==

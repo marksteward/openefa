@@ -102,8 +102,7 @@ The waypoint ({odv}) parameters apply for each of the following waypoints:
          * [arrivalTransport]
        * [itdUsedOptions]
      * [itdItinerary]
-   (only if route is identified):
-       * [itdRouteList]
+       * [itdRouteList] (only if route is identified)
          * [itdRoute]
 
 = Example =

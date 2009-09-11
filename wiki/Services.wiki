@@ -10,18 +10,18 @@ Click on each service to see the parameters that are known to apply to it.
 || [EFA_INIT]                    || Start a new session?           ||
 || [FILELOAD]                    || Download local file            ||
 || [REQUEST]                     || CMS page request               ||
-|| [TRIP_REQUEST]                || Trip router v1?                ||
-|| [TRIP_REQUEST2]               || Trip router v2?                ||
+|| [TRIP_REQUEST]                || Trip router                    ||
+|| [TRIP_REQUEST2]               || Trip router 2                  ||
 || [ADDINFO_REQUEST]             || Additional Info                ||
 || [CM_SHOWADDINFO_REQUEST]      || Incident Info                  ||
 || [COORD_REQUEST]               || Coordinate POI lookup          ||
 || [CONSTOPFINDER_REQUEST]       || Customer options finder        ||
 || [DM_REQUEST]                  || Departure Monitor              ||
 || [MAP_REQUEST]                 || Map                            ||
-|| [PS_REQUEST2]                 || Personal Timetable v2?         ||
-|| [A_PS_REQUEST2]               || Personal Timetable v2?         ||
-|| [SEL_STT_REQUEST]             || Select Station/Stop Timetable? ||
-|| [SELTT_REQUEST]               || Select Timetable?              ||
+|| [PS_REQUEST2]                 || Personal Timetable             ||
+|| [A_PS_REQUEST2]               || Personal Timetable             ||
+|| [SEL_STT_REQUEST]             || Serving Line Stop Timetable    ||
+|| [SELTT_REQUEST]               || Serving Line Timetable         ||
 || [STT_REQUEST]                 || Stop-specific Timetables?      ||
 || [TTB_REQUEST]                 || Timetable                      ||
 || [ROP_REQUEST]                 || Request Map Output             ||

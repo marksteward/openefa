@@ -43,4 +43,4 @@
 
 = Example =
 
-[http://journeyplanner.tfl.gov.uk/user/XSLT_MAP_REQUEST?language=en&mapName=TFLV&itdLPxx_view=staticMap&itdLPxx_usage=origin&itdLPxx_sessionID=0&itdLPxx_request=XSLT_TRIP_REQUEST2&createImage=0&xCenterReal=-100&yCenterReal=-1000000] Show a map to choose the origin of a journey
+[http://journeyplanner.tfl.gov.uk/user/XSLT_MAP_REQUEST?language=en&mapName=TFLV&itdLPxx_view=staticMap&itdLPxx_usage=origin&itdLPxx_sessionID=0&itdLPxx_request=XSLT_TRIP_REQUEST2&createImage=0&xCenterReal=-100&yCenterReal=-1000000] Show a map to choose the origin of a journey]
